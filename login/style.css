@@ -1,0 +1,74 @@
+body{
+background-color: rgb(255, 255, 255);   
+justify-items: center;
+justify-content: center; 
+}
+
+.body-login{
+border-radius: 20px;
+background-color: rgb(113, 132, 201);
+height: 650px;
+width: 450px;
+border: 2px solid rgb(150, 133, 203);
+justify-items: center;
+justify-content:center;
+flex-wrap: wrap;
+border: none;
+margin-left: 500px;
+margin-top: 130px;
+
+}
+#PL{
+color: aliceblue;  
+margin-left: 175px;
+padding-top: 30pt;
+
+}
+
+#us{
+margin-left: 15px;    
+margin-top: 50px;
+}
+
+#pass{
+margin-left: 15px;    
+margin-top: 50pt;
+
+}
+
+label{
+    color:whitesmoke ;
+
+}
+
+input{
+ border-radius: 20px;
+ border: none; 
+ height: 40pt;
+ width: 300px;
+ margin-left: 75px;
+
+}
+.t1{
+margin-left: 30px;
+
+}
+.t2{
+    margin-left: 30px;
+    
+}
+
+button{
+border-radius: 20px;
+height: 75px;  
+width: 400px; 
+border: none; 
+margin-top: 80px;
+margin-left: 25px;
+color: aliceblue;
+background-color: rgb(150, 142, 204);
+}
+
+#bb{
+padding-bottom: 30px;    
+}

@@ -1,0 +1,53 @@
+body{
+background-color: whitesmoke;  
+
+}
+
+.d-geral{
+display: flex;
+border-radius: 30px;
+
+}
+.d-words{
+ background-color: whitesmoke;
+ width:1100px ;   
+ border-top-right-radius: -30px;
+}
+.d-colors{
+
+    background-color: rgb(189, 154, 218);
+    width: 480px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    height: 920px;
+    
+}
+#cadastre-p{
+color: rgb(152, 139, 227);
+justify-content: center;
+margin-left:380px ;
+margin-top:28px ;
+
+}
+
+input{
+border-radius: 20px;
+ border: none; 
+ height: 40pt;
+ width: 450px;
+}
+
+h1{
+    color: rgb(152, 139, 227);    
+}
+.prg{
+ display: flex;
+ margin-left: 70px;   
+}
+.cpn{
+
+}
+
+.cun{
+margin-left: 40px;
+}

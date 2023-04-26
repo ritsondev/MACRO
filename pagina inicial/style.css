@@ -1,0 +1,62 @@
+body{
+background-color:rgb(233, 247, 247);
+
+
+}
+
+header{
+border-bottom: 3px solid blue;  
+background-color: rgb(208, 208, 247);
+border-radius: 15px;
+border: none;
+height: 110px;
+
+
+
+}
+
+#name-santa{
+ color: rgb(255, 255, 255); 
+ padding-bottom:-7px ;
+
+}
+#name-catarina{
+margin-left: 40px;  
+color: rgb(255, 255, 255);
+padding-bottom: 25px;
+}
+
+#name-santa-catarina{
+margin-left: 50pt; 
+}
+
+.santa-catarina-bi{
+  display: flex;
+}
+
+
+#conectar{
+ font-size: 15px; 
+ color: rgb(255, 255, 255);
+ background-color: rgb(150, 150, 255);
+
+}
+#cadastre-se{
+  font-size: 15px; 
+  color: rgb(255, 255, 255);
+  background-color: rgb(150, 150, 255);
+  margin-top: -100px;
+  margin-left: 10px;
+
+}
+.botoes{
+  margin-left: 650pt;
+  display: flex;
+ 
+  }
+
+button{
+ height: 35px; 
+ border-radius: 15px;
+ border: none;
+}
