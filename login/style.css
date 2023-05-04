@@ -1,21 +1,20 @@
 body{
-background-color: rgb(255, 255, 255);   
+background-color: black;
 justify-items: center;
 justify-content: center; 
 }
 
 .body-login{
-border-radius: 20px;
-background-color: rgb(113, 132, 201);
+border-radius: 30px;
+background-image: url(hands-68918_1280.webp);
 height: 650px;
-width: 450px;
-border: 2px solid rgb(150, 133, 203);
+width: 1400px;
 justify-items: center;
 justify-content:center;
 flex-wrap: wrap;
 border: none;
-margin-left: 500px;
-margin-top: 130px;
+margin-top: 65px;
+margin-bottom: 65px;
 
 }
 #PL{
@@ -71,4 +70,11 @@ background-color: rgb(150, 142, 204);
 
 #bb{
 padding-bottom: 30px;    
+}
+#fp-r{
+ display: flex;   
+}
+.ckekbox{
+  margin-left: 30px;
+  height: 10px;  
 }
