@@ -1,2 +1,2 @@
 #MACRO
-esteprojecto ets relacionado com o readme.md da mina empresa
+este projecto esta relacionado com o site  da mina empresa
