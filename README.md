@@ -1,2 +1,2 @@
-# loja-online
- eu tenho plano de criar uma loja online
+#MACRO
+esteprojecto ets relacionado com o dite da mina empresa
