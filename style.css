@@ -1,0 +1,17 @@
+body{
+    background-image: url(../MACRO/ft.img//1671251221_3-44.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+display: flex;    
+}
+.itens-header{
+margin-left: 500px;
+box-sizing: border-box;
+display: flex;
+}
+#icn{
+ margin-left: 10px;   
+
+}
