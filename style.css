@@ -11,7 +11,19 @@ margin-left: 500px;
 box-sizing: border-box;
 display: flex;
 }
-#icn{
- margin-left: 10px;   
-
+#icn-01{
+    margin-left: 80px; 
+    display: inline-block; 
+    box-sizing: border-box;
+    height: 80px;
+}
+#icn-02{
+    margin-left: 80px;   
+}
+#icn-03{
+    margin-left: 80px;   
+}
+#icn-04{
+    margin-left: 80px;   
+    margin-bottom: 17px;
 }
