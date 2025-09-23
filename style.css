@@ -92,7 +92,7 @@ nav{
     gap: 2rem;
     padding: 2rem;
     transition: 0.5s;
-    /*transform: translateY(-100%);*/
+    transform: translateY(-100%);
     z-index: -1;
 
 }
