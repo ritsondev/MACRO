@@ -231,13 +231,22 @@ color: var(--secound-color);
 
     outline: none;
     border: none;
+    font-weight: bold;
     cursor: pointer;
     font-size: 1rem;
-    color: var(--secound-color);
     padding: .75rem 1.5rem;
     border-radius: 5rem;
+    transition: all .5s ease;
+    color: var(--third-color);
+    background-color: var(--secound-color);
 
     
+
+}
+
+.header-content .btn-header .btn:hover{
+    
+    background: linear-gradient(960deg,rgba(81, 127, 212),rgba(1, 1, 134,0.3));
 
 }
 
@@ -267,9 +276,45 @@ color: var(--secound-color);
 .links-social a{
 
     font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease;
+    width: 15px;
+    height: 15px;
     color: var(--third-color);
 
 }
+
+.links-social a:hover{
+
+    transform: translateY(-100%);
+    transition: all 0.3s ease;
+   
+
+}
+
+.links-social li:hover{
+
+    background-color: var(--secound-color);
+    box-shadow: 0 0 25px var(--secound-color);
+
+}
+
+.links-social li{
+
+    border: 1px solid var(--secound-color);
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    
+
+}
+
+
 
 .footer-header{
 
