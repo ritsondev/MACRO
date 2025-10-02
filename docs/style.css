@@ -267,7 +267,7 @@ color: var(--secound-color);
 .header_container{
 
     display: block;
-    margin-bottom: 50px;
+  
 
 }
 
@@ -332,7 +332,7 @@ color: var(--secound-color);
 
     gap: 50px;
     height: 150vh;
-    margin-bottom: 100px;
+    margin:60px 0 100px 0;
 
 }
 
