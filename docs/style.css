@@ -146,6 +146,7 @@ nav{
 .header_container{
 
     max-width: var(--max-width);
+    margin-bottom:60;
     margin-inline: auto;
     padding-block: 5rem 2rem;
     padding-inline: 1rem;
@@ -330,6 +331,7 @@ color: var(--secound-color);
 
     gap: 50px;
     height: 150vh;
+    margin-bottom: 100px;
 
 }
 
