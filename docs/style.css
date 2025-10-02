@@ -267,6 +267,7 @@ color: var(--secound-color);
 .header_container{
 
     display: block;
+    margin-bottom: 50px;
 
 }
 
